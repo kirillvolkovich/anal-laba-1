@@ -37,7 +37,7 @@ Amazon SageMaker - это управляемый сервис облачного
 | Amazon | Yandex Cloud |
 |----------|----------|
 | Amazon FSx | Yandex Managed Service for MongoDB |
-| Amazon Glacier | Yandex Cloud CDN |
+| Amazon Glacier | Yandex Object Storage |
 | Amazon Guard Duty | Нет точного аналога |
 | Amazon Inspector | Нет точного аналога |
 | Amazon Amplify | Нет точного аналога |
